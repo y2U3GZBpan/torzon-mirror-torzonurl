@@ -38,3 +38,5 @@ This resource is for educational purposes only. We do not promote any illegal ac
 ### Disclaimer:
 
 This guide is for educational purposes only.
+
+Update:  Thursday 18 September 2025 link is responsive
